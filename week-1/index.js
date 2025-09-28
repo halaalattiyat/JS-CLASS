@@ -6,3 +6,4 @@ console.log(now.toString());
 
 console.log("Today in YYYY-MM-DD HH:mm:ss format");
 console.log(now.format('YYYY-MM-DD HH:mm:ss'));
+له
